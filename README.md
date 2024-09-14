@@ -46,7 +46,7 @@ Para la instalacion se deben seguir los siguientes pasos:
 ## Instrucciones de uso
 
 ### Interfaz principal
-<img src="./tutorial/main_interfaz.png" alt="imagen" width="900" height="auto" />
+<img src="./tutorial/main_interfaz.PNG" alt="imagen" width="900" height="auto" />
 
 ### 1. Cargar Modelo
 El botón <b>Cargar Modelo</b> se utiliza para cargar el modelo 3D Unet en el framework.<br/><br/>
